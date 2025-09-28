@@ -4,7 +4,11 @@ This is the third and most complex project in my intensive **100-day journey** t
 
 **🚀 [Live Demo](https://karimmahmoud44.github.io/elzero-template/) 🚀**
 
-![Project Screenshot](./images/elzero-screenshot.png)
+<details>
+  <summary>Click to view the full page screenshot</summary>
+  <br>
+  <img src="./images/elzero-screenshot.png" alt="Full page screenshot of Elzero Template">
+</details>
 
 ---
 
